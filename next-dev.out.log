@@ -1,0 +1,11 @@
+
+> image-generation@0.1.0 dev
+> next dev -p 8000
+
+▲ Next.js 16.2.4 (Turbopack)
+- Local:         http://localhost:8000
+- Network:       http://192.168.98.1:8000
+✓ Ready in 411ms
+
+ GET /entrance 200 in 305ms (next.js: 164ms, application-code: 141ms)
+[?25h
